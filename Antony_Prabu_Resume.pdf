@@ -32,12 +32,12 @@ endobj
 >>
 /Type /Page
 /Parent 2 0 R
-/Annots [ 15 0 R 16 0 R 17 0 R ]
+/Annots [ 12 0 R 13 0 R 14 0 R ]
 >>
 endobj
 5 0 obj
 <<
-/Length 11983
+/Length 12358
 >>
 stream
 1 0 0 1 0 0 cm
@@ -125,6 +125,47 @@ T*
 ET
 Q
 Q
+q
+1 0 0 1 51.02 730.8898 cm
+Q
+q
+1 0 0 1 58.44845 729.3898 cm
+q
+1.5 w
+1 J
+0.101961 0.309804 0.541176 RG
+n
+0 0 m
+480.3731 0 l
+S
+Q
+Q
+q
+1 0 0 1 51.02 721.3898 cm
+Q
+q
+1 0 0 1 51.02 702.3898 cm
+q
+0.101961 0.309804 0.541176 rg
+n
+0 19 495.23 -19 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 10 4.5 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 9.5 Tf
+12 TL
+(PROFESSIONAL SUMMARY) Tj
+T*
+ET
 Q
 Q
 q
@@ -1051,79 +1092,34 @@ endobj
 /A <<
 /S /URI
 /Type /Action
-/URI (https\072\057\057antonyprabu\056netlify\056app)
->>
-/P 4 0 R
->>
-endobj
-15 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/Rect [ 172.408 744.7898 274.792 754.3898 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/Type /Action
-/URI (mailto\072prabuantony039\100gmail\056com)
->>
-/P 4 0 R
->>
-endobj
-16 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/Rect [ 285.768 744.7898 316.008 754.3898 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057www\056linkedin\056com\057in\057antonyprabu24)
->>
-/P 4 0 R
->>
-endobj
-17 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/Rect [ 326.984 744.7898 356.328 754.3898 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/Type /Action
 /URI (https\072\057\057antonyprabu24\056github\056io)
 >>
 /P 4 0 R
 >>
 endobj
 xref
-0 18
+0 15
 0000000000 65535 f 
 0000000015 00000 n 
 0000000054 00000 n 
 0000000119 00000 n 
 0000000185 00000 n 
 0000000417 00000 n 
-0000012453 00000 n 
-0000012494 00000 n 
-0000012601 00000 n 
-0000012713 00000 n 
-0000012913 00000 n 
-0000014228 00000 n 
-0000014250 00000 n 
-0000014450 00000 n 
-0000014672 00000 n 
-0000014878 00000 n 
-0000015078 00000 n 
-0000015300 00000 n 
+0000012828 00000 n 
+0000012869 00000 n 
+0000012976 00000 n 
+0000013088 00000 n 
+0000013288 00000 n 
+0000014603 00000 n 
+0000014625 00000 n 
+0000014825 00000 n 
+0000015047 00000 n 
 trailer
 <<
-/Size 18
+/Size 15
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-15506
+15253
 %%EOF
